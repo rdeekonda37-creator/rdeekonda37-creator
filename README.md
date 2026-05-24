@@ -12,7 +12,7 @@ The pharmacy background isn't a costume. It shapes what I build. I know what bad
 
 **Voxatar** &nbsp;·&nbsp; Multi-agent voice and digital clone platform at Stellent.AI. Coordinates 8 to 10 services per deployment (OpenAI, Anthropic, ElevenLabs, AssemblyAI, Replicate), runs a pgvector RAG pipeline at 90%+ retrieval accuracy, ships on Kubernetes at 99.5% uptime. I also built the eval framework that brought model costs down by 70%.
 
-**Vestera** &nbsp;·&nbsp; Fund management platform for GP co-investment. Full-stack on Supabase, TypeScript and React, Dropbox Sign for documents, role-based auth across multiple orgs with RLS policies that actually hold up.
+Fund management platform for GP co-investment. Full-stack on Supabase, TypeScript and React, Dropbox Sign for documents, role-based auth across multiple orgs with RLS policies that actually hold up.
 
 **Capital AI** &nbsp;·&nbsp; Stellent.AI's CRM for capital raisers, syndicators, and fund managers. I represented it at the Ultimate Partnering Conference in Dallas this year.
 
