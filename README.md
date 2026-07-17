@@ -41,7 +41,7 @@ Python, TypeScript, React, Supabase, Postgres with pgvector, Kubernetes, Docker,
 
 ### When I'm not at a keyboard
 
-Learning guitar through JustinGuitar (still very much a beginner), morning runs around Fremont.
+Cooking with makhana, learning guitar through JustinGuitar (still very much a beginner), morning runs around Fremont, and rebuilding my Turo fleet. Once ran a small hummingbird nectar brand called The Bird Keeper, which is how I found out Texas has wildlife-feed tax rules.
 
 ---
 
@@ -50,3 +50,5 @@ Learning guitar through JustinGuitar (still very much a beginner), morning runs 
 - 🌐 [stellent.ai](https://stellent.ai)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajeshkumardeekonda/)
 - ✉️ deekondarajeshkumar469@gmail.com
+
+If you're hiring for AI engineer, forward-deployed, or solutions roles and the healthcare angle interests you, I'd like to talk.
